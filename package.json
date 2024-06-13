@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/rrydrr/ABPJS/issues"
   },
-  "homepage": "https://github.com/rrydrr/ABPJS#readme"
+  "homepage": "https://github.com/rrydrr/ABPJS#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.3"
+  }
 }
